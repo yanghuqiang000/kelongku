@@ -4,10 +4,11 @@
 public class aa {
 
 
-    public  static void main(){
-
-        System.out.println("5");
-
-        System.out.println("000");
+    public static void main(){
+        System.out.println("0");
     }
+
+
+
+
 }
