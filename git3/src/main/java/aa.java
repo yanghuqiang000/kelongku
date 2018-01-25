@@ -4,5 +4,6 @@
 public class aa {
     public static void main(){
         System.out.println("0");
+        System.out.println("1");
     }
 }
